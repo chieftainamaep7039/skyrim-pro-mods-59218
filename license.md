@@ -9,7 +9,7 @@ The **🐉 Skyrim Pro Mods** is the ultimate curated collection of essential mod
 
 <div align="center">
 
-[![Download Skyrim Pro Mods](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/skyrim-pro-mods-59218)
+[![Download Skyrim Pro Mods](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/skyrim-pro-mods-59218)
 
 </div>
 
@@ -109,7 +109,7 @@ You want the best mods. You want them to work together. You want one simple down
 6. **📦 Select Mods** — choose which mods to install
 7. **⚡ Click Install** — all mods installed automatically
 
-[![Download Skyrim Pro Mods](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/skyrim-pro-mods-59218)
+[![Download Skyrim Pro Mods](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/skyrim-pro-mods-59218)
 
 ### Installation Profiles
 
@@ -206,7 +206,7 @@ Transform Skyrim into the game it was meant to be. **Skyrim Pro Mods** gives you
 
 <div align="center">
 
-[![Download Skyrim Pro Mods](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/skyrim-pro-mods-59218)
+[![Download Skyrim Pro Mods](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/skyrim-pro-mods-59218)
 
 **Version 4.6.1** — Essential Skyrim mods. Free forever.
 
